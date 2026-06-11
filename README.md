@@ -11,8 +11,15 @@ Manufacturing Digital Transformation
 - AI for Manufacturing
 - Industrial Data Platform
 
-Projects
+## What I Build
 
-- NITI AI
-- MPOS
-- Manufacturing Use Case Library
+- MES Platform
+- Production Planning
+- Quality Management
+- Maintenance Management
+- HR & Workforce Systems
+- Energy Monitoring
+- AI Assistants
+- Workflow Automation
+
+250+ business modules accumulated from real manufacturing operations.
